@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Samuel Kow Paintsil",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/Sami64/icons-hoard",
+  "dependencies": {
+    "@agyemanjp/somatic": "^2.7.5",
+    "@agyemanjp/standard": "^4.0.4"
+  }
 }
